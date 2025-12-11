@@ -38,7 +38,7 @@ Este material foi pensado para:
 * 🌐 Qualquer pessoa que queira promover sua própria **Inclusão Digital**.
 
 ## 📥 Como Baixar
-Você pode baixar a versão em PDF mais recente e completa do e-book diretamente na seção **Releases** deste repositório ou clicando no botão de download acima (se houver).
+Você pode baixar a versão em PDF mais recente e completa do e-book diretamente na seção **Releases** deste repositório.
 
 ## 👤 Sobre o Autor
 Este e-book foi criado por **João Pedro da Silva**, estudante de Análise e Desenvolvimento de Sistemas, como parte de um projeto de extensão focado em democratizar o ensino de tecnologia.
